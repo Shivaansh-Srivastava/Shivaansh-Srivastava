@@ -6,3 +6,5 @@
 - 💬 Ask me about cool tech stuff!!
 - 📫 How to reach me: shivaansh.srivastava.2001@gmail.com
 - ⚡ Fun fact: Like watching Netflix! Maybe will work there some day!!
+
+<img src=https://github-readme-stats.vercel.app/api?username=Shivaansh-Srivastava&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515>
